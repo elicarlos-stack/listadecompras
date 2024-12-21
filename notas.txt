@@ -3,4 +3,6 @@ Livros
 Jogos
 Informatica
 Cadernos
-Impressoras
+Cartucho
+Tinta
+Envelope
