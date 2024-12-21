@@ -6,3 +6,8 @@ Cadernos
 Cartucho
 Tinta
 Envelope
+Impressoras
+Monitores
+Teclados
+Televisores
+
