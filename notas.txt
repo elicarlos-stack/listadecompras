@@ -4,3 +4,6 @@ Jogos
 Informatica
 Cadernos
 Impressoras
+Monitores
+Teclados
+Televisores
